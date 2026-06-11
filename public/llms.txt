@@ -1,0 +1,67 @@
+# חילוצי דרך ותיקון גלגלים עד חצי שעה הגעה — Generative Engine Optimization Map
+
+> A roadside assistance service specializing in tire-related emergencies, including flat tire repair and tire replacement. The business serves drivers who are stranded on the road and need quick, reliable help. The service likely emphasizes speed, availability, and trustworthiness to reassure stressed drivers in urgent situations.
+
+---
+
+## Pages
+
+### בית
+https://-1cb4fef2.zappy5.app
+פנצ&#39;ר או גלגל מפונצ&#39;ר? צוות חילוץ מהיר יגיע אליכם תוך 30 דקות לכל מקום. שירות אמין לתיקון והחלפת גלגלים בדרכים – חייגו עכשיו ונחזיר אתכם לנסוע בבטחה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1cb4fef2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1cb4fef2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1cb4fef2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-1cb4fef2.zappy5.app
+- Endpoint: https://-1cb4fef2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חילוצי דרך ותיקון גלגלים עד חצי שעה הגעה
+A roadside assistance service specializing in tire-related emergencies, including flat tire repair and tire replacement. The business serves drivers who are stranded on the road and need quick, reliable help. The service likely emphasizes speed, availability, and trustworthiness to reassure stressed drivers in urgent situations.
+
+## Target Audience
+- נהגים שנתקעו בדרך עם פנצר או בעיית צמיג
+- נהגים תקועים
+- מנהלי ציי רכב
+- נוסעים למרחקים ארוכים
+
+## Industry
+Roadside Assistance
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1cb4fef2.zappy5.app/sitemap.xml
+- Robots: https://-1cb4fef2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1cb4fef2.zappy5.app/llms-full.txt
